@@ -7,7 +7,7 @@
  * MIT License
  */
 
-package cn.dreeam.leaper;
+package io.papermc.paperclip;
 
 import io.sigpipe.jbsdiff.InvalidHeaderException;
 import io.sigpipe.jbsdiff.Patch;

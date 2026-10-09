@@ -1,4 +1,4 @@
-package cn.dreeam.leaper;
+package io.papermc.paperclip;
 
 import java.io.IOException;
 import java.io.InputStream;
